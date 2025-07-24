@@ -26,13 +26,7 @@ A fully responsive **Currency Converter Web Application** built using **HTML, CS
 ---
 
 ## 📂 Folder Structure
-
-currency-converter/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── script.js # JavaScript logic
-└── README.md # Project documentation
+<pre> currency-converter/ ├── index.html # Main HTML file ├── style.css # CSS file for styling ├── script.js # JavaScript file for logic and API ├ └── README.md # Project documentation </pre>
 
 
 ---
