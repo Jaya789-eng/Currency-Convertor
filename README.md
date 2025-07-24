@@ -3,11 +3,6 @@
 A fully responsive **Currency Converter Web Application** built using **HTML, CSS, JavaScript**, and real-time exchange rate data from a public API. The app enables users to convert between multiple international currencies with up-to-date exchange rates fetched live.
 
 
-## 📸 Screenshots
-
-![App Screenshot](./screenshot.png)  
-<!-- Upload and include your screenshot file in the repo -->
-
 ---
 
 ## 🧑‍💻 Tech Stack
@@ -39,7 +34,6 @@ currency-converter/
 ├── script.js # JavaScript logic
 └── README.md # Project documentation
 
-Here is a section you can add to your `README.md` file under the headings **"Notes"** and **"Future Enhancements"** for your **Currency Converter Application**:
 
 ---
 
@@ -49,12 +43,6 @@ Here is a section you can add to your `README.md` file under the headings **"Not
 * Make sure you have a stable internet connection to retrieve updated rates.
 * If using a paid or key-based API, ensure your API key is securely stored and not exposed publicly in the `script.js` file (consider using environment variables or backend proxy in advanced versions).
 * The UI is kept minimal for better focus on core functionality and easy customization.
-
----
-
-## 🔮 Future Enhancements
-
-Here's a concise version of **Future Enhancements** tailored for a `README.md` file:
 
 ---
 
