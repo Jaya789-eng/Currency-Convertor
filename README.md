@@ -26,9 +26,8 @@ A fully responsive **Currency Converter Web Application** built using **HTML, CS
 ---
 
 ## 📂 Folder Structure
-<pre> ```bash currency-converter/ │ ├── index.html # Main HTML file (UI layout) ├── style.css # CSS file for styling ├── script.js # JavaScript for conversion logic and API integration ├── README.md # Project documentation ``` </pre>
+<pre> ```text currency-converter/ │ ├── index.html # Main HTML file (UI layout) ├── style.css # CSS file for styling ├── script.js # JavaScript for conversion logic and API integration └── README.md # Project documentation ``` </pre>
 
----
 
 ## 📝 Notes
 
